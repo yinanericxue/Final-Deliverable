@@ -3,9 +3,9 @@
 
 ## When it comes to annual weather data visualization, we typically see a very traditional line or bar plot used, with the x-axis as the date and the y-axis as the temperature. We’ve seen  examples of this on old newspapers, and while they are simple to read and understand, they lack interactiveness and creativeness. With the help of the D3 framework, I created a circular bar diagram visualization that plots the mean temperature of all 365 days from July 1, 2014 to June 30, 2015 of eight different cities. In terms of the design, I labeled the bars of each month with different colors and created a circular axis for temperature readability. On top of this, my visualization supports two dynamic tasks, which are 1) the ability to change cities on the same plot and 2) the ability to track data through mouseover. My objective was to display these weather information as neatly as possible, while avoiding unnecessary dynamic features that will overcomplicate a user’s experience. Below are screenshots of the user interface:
 
-<img width="797" alt="Screen Shot 2023-03-12 at 5 37 21 PM" src="https://user-images.githubusercontent.com/102645083/224612557-2382b4dd-e7ca-47f3-a8c6-6d8542857fc4.png">
+![Weather Data Visualization from July 2014 - June 2015](https://user-images.githubusercontent.com/102645083/224612841-567eca02-b3a7-4a6e-b059-8c13b174b5c4.png)
 
-<img width="600" alt="Screen Shot 2023-03-12 at 7 59 26 PM" src="https://user-images.githubusercontent.com/102645083/224612695-f27ed334-6444-40e5-bb30-3ac8690bbaac.png">
+<img width="600" alt="Temperature 56" src="https://user-images.githubusercontent.com/102645083/224612847-cfc78e58-6852-4b37-a441-9f7c0c81cc8c.png">
 
 
 
